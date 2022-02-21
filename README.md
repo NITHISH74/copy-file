@@ -30,6 +30,7 @@ with open("file.txt") as fp:
         fp1.write(line)
 ```
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94164665/154933778-6882eb24-b2d2-43d5-94ae-20714e5e5614.png)
 
 
 
